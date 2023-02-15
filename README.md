@@ -17,7 +17,7 @@ Meu nome é Ricardo Lima, sou Programador Front End, atualmente estou aprendendo
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 
 - 🔭 Atualmente estou trabalhando em minhas habilidades de desenvolvimento Web.
-- 🌱 Atualmente estou aprendendo React construindo projetos.
+- 🌱 Atualmente estou aprendendo Javascript construindo projetos.
 - 👯 Estou procurando colaborar em qualquer projeto de código aberto usando Javascript.
 - 😄 Adoro explorar e aprender novas habilidades, bem como implementá-las em meus projetos.
 - 📫 Como chegar até mim: **ricardemanoel@gmail.com**
